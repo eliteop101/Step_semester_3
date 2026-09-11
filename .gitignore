@@ -11,5 +11,5 @@ target/
 .project
 .classpath
 
-# Assignment guide document
-STEP_GitHub_Structure_Guide.pdf
+# Assignment guide documents
+*.pdf
